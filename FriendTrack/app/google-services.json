@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "223359816452",
+    "firebase_url": "https://friendtrack-94a90.firebaseio.com",
+    "project_id": "friendtrack-94a90",
+    "storage_bucket": "friendtrack-94a90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223359816452:android:a597e9416f04c844",
+        "android_client_info": {
+          "package_name": "com.example.comkk.friendtrack1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223359816452-b1ahsnj3q2jdnoui11pprcj0e2tl1sub.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "223359816452-2fnq6729mrjpt4g9at20jpoap4vvm49n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comkk.friendtrack1",
+            "certificate_hash": "fb4e249d6af32fd22c14863686b6d4fbaf5775b3"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbrKsFegzV3IYzjz5DIEreWtIjKKJlB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223359816452-b1ahsnj3q2jdnoui11pprcj0e2tl1sub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223359816452:android:dc41b55ce681ac3c",
+        "android_client_info": {
+          "package_name": "com.example.lukehogan.friendtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223359816452-t97fnbsurmps1umufuo6hd7gr3j7v5s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lukehogan.friendtrack",
+            "certificate_hash": "072c7388bbd669ecb58da643328752a1e0ca4ffd"
+          }
+        },
+        {
+          "client_id": "223359816452-b1ahsnj3q2jdnoui11pprcj0e2tl1sub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbrKsFegzV3IYzjz5DIEreWtIjKKJlB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223359816452-b1ahsnj3q2jdnoui11pprcj0e2tl1sub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

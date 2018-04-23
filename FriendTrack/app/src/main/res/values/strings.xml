@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FriendTrack</string>
+    <string name="user_id" translatable="false">darius</string>
+    <string name="title_activity_display">Map</string>
+    <string name="firebase_path" translatable="false">locations</string>
+    <string name="getting_location">See Nearby Users</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
